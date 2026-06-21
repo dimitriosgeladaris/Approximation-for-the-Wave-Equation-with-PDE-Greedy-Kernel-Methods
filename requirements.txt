@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+
+# Optional: only needed for the Bayesian parameter optimization in
+# examples/1d_compact_bump.py (set bayesian_optimize = True there).
+scikit-optimize
